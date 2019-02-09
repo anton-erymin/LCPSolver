@@ -1,0 +1,13 @@
+d:\Slava\ZCM\ZCM\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Slava\ZCM\ZCM\obj\x86\Release\ZCM.Form1.resources
+d:\Slava\ZCM\ZCM\obj\x86\Release\ZCM.Properties.Resources.resources
+d:\Slava\ZCM\ZCM\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+d:\Slava\ZCM\ZCM\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+d:\Slava\ZCM\ZCM\obj\x86\Release\ZCM.pdb
+d:\Slava\ZCM\ZCM\bin\Release\ZCM.exe
+d:\Slava\ZCM\ZCM\bin\Release\ZCM.pdb
+d:\Slava\ZCM\ZCM\obj\x86\Release\ZCM.exe
+E:\Projects\Windows Applications\ZCM\ZCM\obj\x86\Release\ZCM.exe
+E:\Projects\Windows Applications\ZCM\ZCM\obj\x86\Release\ZCM.pdb
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Release\ZCM.exe
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Release\ZCM.pdb

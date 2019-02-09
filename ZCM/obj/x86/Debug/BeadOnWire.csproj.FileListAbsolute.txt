@@ -1,0 +1,23 @@
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Debug\ZCM.exe
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Debug\ZCM.pdb
+E:\Projects\Windows Applications\BeadOnWire\ZCM\bin\Debug\ZCM.exe
+E:\Projects\Windows Applications\BeadOnWire\ZCM\bin\Debug\ZCM.pdb
+E:\Projects\Windows Applications\BeadOnWire\ZCM\bin\Debug\MathNet.Numerics.dll
+E:\Projects\Windows Applications\BeadOnWire\ZCM\bin\Debug\System.Numerics.dll
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Debug\ZCM.Form1.resources
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Debug\ZCM.Properties.Resources.resources
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Projects\Windows Applications\BeadOnWire\ZCM\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Temp\Physics\BeadOnWire\ZCM\obj\x86\Debug\BeadOnWire.csprojAssemblyReference.cache
+C:\Temp\Physics\BeadOnWire\ZCM\obj\x86\Debug\ZCM.Form1.resources
+C:\Temp\Physics\BeadOnWire\ZCM\obj\x86\Debug\ZCM.Properties.Resources.resources
+C:\Temp\Physics\BeadOnWire\ZCM\obj\x86\Debug\BeadOnWire.csproj.GenerateResource.cache
+C:\Temp\Physics\BeadOnWire\ZCM\obj\x86\Debug\BeadOnWire.csproj.CoreCompileInputs.cache
+C:\Temp\Physics\BeadOnWire\ZCM\obj\x86\Debug\ZCM.exe
+C:\Temp\Physics\BeadOnWire\ZCM\obj\x86\Debug\ZCM.pdb
+C:\Temp\Physics\BeadOnWire\ZCM\bin\Debug\ZCM.exe
+C:\Temp\Physics\BeadOnWire\ZCM\bin\Debug\ZCM.pdb
+C:\Temp\Physics\BeadOnWire\ZCM\bin\Debug\MathNet.Numerics.dll
+C:\Temp\Physics\BeadOnWire\ZCM\bin\Debug\System.Numerics.dll
+C:\Temp\Physics\BeadOnWire\ZCM\obj\x86\Debug\BeadOnWire.csproj.CopyComplete
